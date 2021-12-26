@@ -5,5 +5,7 @@ public class ClazzTest {
         System.out.println("Hi");
         System.out.println("one more Hi");
         System.out.println("....");
+        System.out.println("sout");
+        System.out.println("tous");
     }
 }
