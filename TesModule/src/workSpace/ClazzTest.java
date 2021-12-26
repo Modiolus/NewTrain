@@ -8,5 +8,7 @@ public class ClazzTest {
         System.out.println("sout");
         System.out.println("tous");
         System.out.println("System ");
+        System.out.println("print");
+        System.out.println("tnirp");
     }
 }
