@@ -10,6 +10,6 @@ public class ClazzTest {
         System.out.println("System ");
         System.out.println("print");
         System.out.println("tnirp");
-        System.out.println("Trip");
+
     }
 }
