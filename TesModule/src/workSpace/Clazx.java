@@ -6,5 +6,6 @@ public class Clazx {
         System.out.println("Second main out");
 
         System.out.println();
+        System.out.println("Xef");
     }
 }
